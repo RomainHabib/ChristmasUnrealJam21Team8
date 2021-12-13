@@ -1,0 +1,1230 @@
+﻿Log file open, 12/13/21 09:25:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ChristmasJam21Team8
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.285871
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 1800X Eight-Core Processor         , GPU: Radeon RX 570 Series
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -LOG
+LogInit: Base Directory: C:/Program Files (x86)/UnrealEngine/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.12.13-08.25.18:370][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.13-08.25.18:370][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.13-08.25.18:371][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Engine.ini]
+[2021.12.13-08.25.18:371][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.13-08.25.18:371][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Engine.ini]
+[2021.12.13-08.25.18:372][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Engine.ini]
+[2021.12.13-08.25.18:372][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.13-08.25.18:373][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.13-08.25.18:375][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.13-08.25.18:377][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.13-08.25.18:378][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.13-08.25.18:378][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.13-08.25.18:379][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.13-08.25.18:379][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.13-08.25.18:379][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.13-08.25.18:380][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.13-08.25.18:380][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.13-08.25.18:381][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.13-08.25.18:381][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.13-08.25.18:382][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.13-08.25.18:382][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Engine.ini]
+[2021.12.13-08.25.18:382][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.13-08.25.18:383][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.13-08.25.18:383][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.13-08.25.18:384][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.13-08.25.18:384][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.13-08.25.18:384][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.13-08.25.18:385][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.13-08.25.18:385][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.13-08.25.18:386][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.13-08.25.18:386][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.13-08.25.18:386][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.13-08.25.18:387][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.13-08.25.18:387][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.13-08.25.18:388][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.12.13-08.25.18:388][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Engine.ini]
+[2021.12.13-08.25.18:389][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Engine.ini]
+[2021.12.13-08.25.18:417][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-08.25.18:417][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.13-08.25.18:417][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.13-08.25.18:418][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-08.25.18:418][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.13-08.25.18:418][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-08.25.18:419][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.13-08.25.18:419][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.13-08.25.18:420][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.13-08.25.18:420][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.13-08.25.18:421][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.13-08.25.18:423][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.13-08.25.18:424][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.13-08.25.18:424][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.13-08.25.18:424][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.13-08.25.18:425][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.13-08.25.18:425][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.13-08.25.18:426][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.13-08.25.18:426][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.13-08.25.18:426][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.13-08.25.18:427][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.13-08.25.18:427][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.13-08.25.18:428][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.13-08.25.18:428][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.13-08.25.18:428][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-08.25.18:429][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.13-08.25.18:429][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.13-08.25.18:430][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.13-08.25.18:430][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.13-08.25.18:430][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.13-08.25.18:431][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.13-08.25.18:431][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.13-08.25.18:432][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.13-08.25.18:432][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.13-08.25.18:432][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.13-08.25.18:433][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.13-08.25.18:433][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.13-08.25.18:434][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.13-08.25.18:434][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.13-08.25.18:434][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.13-08.25.18:435][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.13-08.25.18:435][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.13-08.25.18:436][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.13-08.25.18:436][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.13-08.25.18:437][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.13-08.25.18:440][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.13-08.25.18:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.13-08.25.18:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.13-08.25.18:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.13-08.25.18:442][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.13-08.25.18:442][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.13-08.25.18:443][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.13-08.25.18:443][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.13-08.25.18:443][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.13-08.25.18:444][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.13-08.25.18:444][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-08.25.18:445][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.13-08.25.18:445][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.13-08.25.18:446][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.13-08.25.18:446][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.13-08.25.18:446][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.13-08.25.18:447][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.13-08.25.18:447][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.13-08.25.18:448][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.13-08.25.18:448][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.13-08.25.18:449][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-08.25.18:449][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.13-08.25.18:449][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.13-08.25.18:450][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.13-08.25.18:450][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.13-08.25.18:451][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.13-08.25.18:451][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.13-08.25.18:452][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.13-08.25.18:452][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.13-08.25.18:452][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.13-08.25.18:453][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.13-08.25.18:456][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.13-08.25.18:457][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.13-08.25.18:457][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.13-08.25.18:458][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.13-08.25.18:458][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.13-08.25.18:458][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.13-08.25.18:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.13-08.25.18:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.13-08.25.18:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.13-08.25.18:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.13-08.25.18:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.13-08.25.18:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.13-08.25.18:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.13-08.25.18:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.13-08.25.18:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.13-08.25.18:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.13-08.25.18:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.13-08.25.18:463][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.13-08.25.18:464][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-08.25.18:464][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.13-08.25.18:465][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.13-08.25.18:465][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-08.25.18:465][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.13-08.25.18:466][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.13-08.25.18:466][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.13-08.25.18:467][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.13-08.25.18:467][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.13-08.25.18:467][  0]LogHAL: Display: Platform has ~ 24 GB [25719496704 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.13-08.25.18:468][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.13-08.25.18:468][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-08.25.18:469][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.13-08.25.18:472][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.13-08.25.18:472][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-08.25.18:473][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.13-08.25.18:473][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-08.25.18:474][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.13-08.25.18:474][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.13-08.25.18:474][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.13-08.25.18:475][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.13-08.25.18:475][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.13-08.25.18:476][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.13-08.25.18:476][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.13-08.25.18:476][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.13-08.25.18:477][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.13-08.25.18:477][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.13-08.25.18:478][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.13-08.25.18:478][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.13-08.25.18:478][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.13-08.25.18:479][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.13-08.25.18:479][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.13-08.25.18:480][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.13-08.25.18:480][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.13-08.25.18:480][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.13-08.25.18:481][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-08.25.18:481][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.13-08.25.18:482][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.13-08.25.18:482][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.13-08.25.18:482][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.13-08.25.18:483][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.13-08.25.18:483][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.13-08.25.18:484][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.13-08.25.18:484][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.13-08.25.18:485][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.13-08.25.18:488][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.13-08.25.18:489][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.13-08.25.18:489][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.13-08.25.18:489][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.13-08.25.18:490][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.13-08.25.18:490][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.13-08.25.18:491][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.13-08.25.18:491][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.13-08.25.18:491][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.13-08.25.18:492][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.13-08.25.18:492][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.13-08.25.18:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.13-08.25.18:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.13-08.25.18:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.13-08.25.18:494][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.13-08.25.18:494][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.13-08.25.18:495][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.13-08.25.18:495][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.13-08.25.18:496][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.13-08.25.18:496][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.13-08.25.18:496][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.13-08.25.18:497][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-08.25.18:497][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.13-08.25.18:498][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.13-08.25.18:498][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.13-08.25.18:498][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.13-08.25.18:499][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.13-08.25.18:499][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.13-08.25.18:500][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.13-08.25.18:500][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.13-08.25.18:501][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.13-08.25.18:504][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-08.25.18:504][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.13-08.25.18:505][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.13-08.25.18:505][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.13-08.25.18:506][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.13-08.25.18:506][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.13-08.25.18:506][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.13-08.25.18:507][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.13-08.25.18:507][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.13-08.25.18:508][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.13-08.25.18:508][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.13-08.25.18:509][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.13-08.25.18:509][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.13-08.25.18:510][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.13-08.25.18:510][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.13-08.25.18:510][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.13-08.25.18:511][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.13-08.25.18:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.13-08.25.18:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.13-08.25.18:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.13-08.25.18:512][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.13-08.25.18:513][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.13-08.25.18:513][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.13-08.25.18:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.13-08.25.18:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.13-08.25.18:514][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.13-08.25.18:515][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.13-08.25.18:515][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.13-08.25.18:516][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.13-08.25.18:516][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-08.25.18:516][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.13-08.25.18:517][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.13-08.25.18:520][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Scalability.ini]
+[2021.12.13-08.25.18:521][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.13-08.25.18:521][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.13-08.25.18:521][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.13-08.25.18:522][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.13-08.25.18:523][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.13-08.25.18:523][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.13-08.25.18:523][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.13-08.25.18:523][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Engine.ini]
+[2021.12.13-08.25.18:524][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Config/Windows/Editor.ini]
+[2021.12.13-08.25.18:524][  0]LogInit: Computer: DESKTOP-REB21DE
+[2021.12.13-08.25.18:525][  0]LogInit: User: Romain
+[2021.12.13-08.25.18:525][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.12.13-08.25.18:525][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.13-08.25.18:526][  0]LogMemory: Memory total: Physical=24.0GB (24GB approx)
+[2021.12.13-08.25.18:526][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.13-08.25.18:527][  0]LogMemory: Process Physical Memory: 150.87 MB used, 150.88 MB peak
+[2021.12.13-08.25.18:527][  0]LogMemory: Process Virtual Memory: 132.87 MB used, 132.87 MB peak
+[2021.12.13-08.25.18:527][  0]LogMemory: Physical Memory: 9247.85 MB used,  15280.18 MB free, 24528.02 MB total
+[2021.12.13-08.25.18:528][  0]LogMemory: Virtual Memory: 134203152.00 MB used,  14574.98 MB free, 134217728.00 MB total
+[2021.12.13-08.25.18:535][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.13-08.25.18:560][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.13-08.25.18:561][  0]LogInit: Using OS detected language (fr-FR).
+[2021.12.13-08.25.18:561][  0]LogInit: Using OS detected locale (fr-FR).
+[2021.12.13-08.25.18:566][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2021.12.13-08.25.18:566][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2021.12.13-08.25.18:567][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2021.12.13-08.25.18:567][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2021.12.13-08.25.18:568][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2021.12.13-08.25.18:568][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2021.12.13-08.25.18:568][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2021.12.13-08.25.18:569][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2021.12.13-08.25.18:570][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.13-08.25.18:584][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.13-08.25.18:607][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.13-08.25.18:607][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.13-08.25.18:777][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.12.13-08.25.18:819][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2021.12.13-08.25.18:819][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.13-08.25.18:820][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.13-08.25.18:821][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.13-08.25.18:875][  0]LogD3D11RHI:    0. 'Radeon RX 570 Series' (Feature Level 11_0)
+[2021.12.13-08.25.18:875][  0]LogD3D11RHI:       8171/0/12264 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2021.12.13-08.25.18:879][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.13-08.25.18:879][  0]LogD3D11RHI:       0/0/12264 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.13-08.25.18:880][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2021.12.13-08.25.18:880][  0]LogD3D11RHI:     Description : Radeon RX 570 Series
+[2021.12.13-08.25.18:881][  0]LogD3D11RHI:     VendorId    : 1002
+[2021.12.13-08.25.18:881][  0]LogD3D11RHI:     DeviceId    : 67df
+[2021.12.13-08.25.18:882][  0]LogD3D11RHI:     SubSysId    : 341b1462
+[2021.12.13-08.25.18:883][  0]LogD3D11RHI:     Revision    : 00ef
+[2021.12.13-08.25.18:883][  0]LogD3D11RHI:     DedicatedVideoMemory : 8568401920 bytes
+[2021.12.13-08.25.18:884][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.12.13-08.25.18:885][  0]LogD3D11RHI:     SharedSystemMemory : 12859748352 bytes
+[2021.12.13-08.25.18:885][  0]LogD3D11RHI:     AdapterLuid : 0 49954
+[2021.12.13-08.25.18:893][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.13-08.25.18:894][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2021.12.13-08.25.18:894][  0]LogWindows: EnumDisplayDevices:
+[2021.12.13-08.25.18:895][  0]LogWindows:    0. 'Radeon RX 570 Series' (P:0 D:1)
+[2021.12.13-08.25.18:896][  0]LogWindows:    1. 'Radeon RX 570 Series' (P:1 D:1)
+[2021.12.13-08.25.18:896][  0]LogWindows:    2. 'Radeon RX 570 Series' (P:0 D:0)
+[2021.12.13-08.25.18:896][  0]LogWindows:    3. 'Radeon RX 570 Series' (P:0 D:0)
+[2021.12.13-08.25.18:897][  0]LogWindows:    4. 'Radeon RX 570 Series' (P:0 D:0)
+[2021.12.13-08.25.18:897][  0]LogWindows:    5. 'Radeon RX 570 Series' (P:0 D:0)
+[2021.12.13-08.25.18:898][  0]LogWindows:    6. 'Radeon RX 570 Series' (P:0 D:0)
+[2021.12.13-08.25.18:898][  0]LogWindows: DebugString: FoundDriverCount:7 
+[2021.12.13-08.25.18:898][  0]LogD3D11RHI:     Adapter Name: Radeon RX 570 Series
+[2021.12.13-08.25.18:899][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 21.10.2 (internal:30.0.13025.5005, unified:30.0.13025.5005)
+[2021.12.13-08.25.18:899][  0]LogD3D11RHI:      Driver Date: 10-5-2021
+[2021.12.13-08.25.18:900][  0]LogRHI: Texture pool is 5182 MB (70% of 7403 MB)
+[2021.12.13-08.25.18:940][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2021.12.13-08.25.18:940][  0]LogD3D11RHI:     Description : Radeon RX 570 Series
+[2021.12.13-08.25.18:942][  0]LogD3D11RHI:     VendorId    : 1002
+[2021.12.13-08.25.18:942][  0]LogD3D11RHI:     DeviceId    : 67df
+[2021.12.13-08.25.18:942][  0]LogD3D11RHI:     SubSysId    : 341b1462
+[2021.12.13-08.25.18:943][  0]LogD3D11RHI:     Revision    : 00ef
+[2021.12.13-08.25.18:943][  0]LogD3D11RHI:     DedicatedVideoMemory : 8568401920 bytes
+[2021.12.13-08.25.18:944][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.12.13-08.25.18:944][  0]LogD3D11RHI:     SharedSystemMemory : 12859748352 bytes
+[2021.12.13-08.25.18:945][  0]LogD3D11RHI:     AdapterLuid : 0 49954
+[2021.12.13-08.25.18:997][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2021.12.13-08.25.18:998][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.12.13-08.25.18:999][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.13-08.25.18:999][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.12.13-08.25.19:000][  0]LogD3D11RHI: HDR output is supported on display 0 (AMD Device: 0x0, Display: 0x0).
+[2021.12.13-08.25.19:013][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2021.12.13-08.25.19:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.13-08.25.19:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.13-08.25.19:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.13-08.25.19:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.13-08.25.19:331][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.13-08.25.19:331][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.13-08.25.19:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.13-08.25.19:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.13-08.25.19:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.13-08.25.19:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.13-08.25.19:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.13-08.25.19:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.13-08.25.19:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.13-08.25.19:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.13-08.25.19:377][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.13-08.25.19:383][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.13-08.25.19:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.13-08.25.19:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.13-08.25.19:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.13-08.25.19:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.13-08.25.19:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.13-08.25.19:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.13-08.25.19:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.12.13-08.25.19:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.12.13-08.25.19:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.12.13-08.25.19:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.12.13-08.25.19:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.13-08.25.19:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.13-08.25.19:514][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.13-08.25.19:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.13-08.25.19:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.13-08.25.19:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.13-08.25.19:558][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.13-08.25.19:569][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.13-08.25.19:612][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.12.13-08.25.19:649][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.12.13-08.25.19:649][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Intermediate/Shaders/WorkingDirectory/13616/).
+[2021.12.13-08.25.19:671][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/romai/AppData/Local/Temp/UnrealShaderWorkingDir/EE94FDA646CCF50C118399A848423699/'.
+[2021.12.13-08.25.19:672][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.12.13-08.25.19:673][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.12.13-08.25.19:673][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.12.13-08.25.20:526][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.13-08.25.20:592][  0]LogDerivedDataCache: Loaded boot cache 0.07s 94MB C:/Users/romai/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.13-08.25.20:592][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/romai/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.12.13-08.25.20:593][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.13-08.25.20:594][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.13-08.25.20:594][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.13-08.25.20:595][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.13-08.25.20:616][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.13-08.25.20:616][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.13-08.25.20:617][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.13-08.25.20:626][  0]LogDerivedDataCache: Speed tests for C:/Users/romai/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.12.13-08.25.20:626][  0]LogDerivedDataCache: Display: Performance to C:/Users/romai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=911.19MBs, RandomWriteSpeed=134.11MBs. Assigned SpeedClass 'Local'
+[2021.12.13-08.25.20:627][  0]LogDerivedDataCache: Using Local data cache path C:/Users/romai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.13-08.25.20:627][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.13-08.25.20:628][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.13-08.25.20:683][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.13-08.25.20:684][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.13-08.25.20:707][  0]LogAssetRegistry: FAssetRegistry took 0.0034 seconds to start up
+[2021.12.13-08.25.21:012][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.13-08.25.21:012][  0]LogInit: Active device profile: [0000027F6736D400][0000027F6576D180 49] Windows
+[2021.12.13-08.25.21:013][  0]LogInit: Profiles: [0000027F6736D400][0000027F6576D180 49] Windows, [0000027F67312C00][0000027F62D21300 49] WindowsNoEditor, [0000027F6736F400][0000027F62D25480 49] WindowsServer, [0000027F67311200][0000027F62D29600 49] WindowsClient, [0000027F6730FF00][0000027F62D2D780 49] IOS, [0000027F6736F300][0000027F62D31900 49] iPadAir, [0000027F67310400][0000027F62D35A80 49] iPadAir2, [0000027F672C0400][0000027F62D421C0 49] IPadPro, [0000027F672C0500][0000027F62D38200 49] iPadAir3, [0000027F6730DA00][0000027F62D4C380 49] iPadAir4, [0000027F672C3000][0000027F62D50500 49] iPadMini2, [0000027F6730F400][0000027F66D4C640 49] iPadMini3, [0000027F672C0D00][0000027F62D54780 49] iPadMini4, [0000027F6730EC00][0000027F62E0C8C0 49] iPadMini5, [0000027F672AFD00][0000027F62E18B80 49] iPhone6, [0000027F672AFE00][0000027F62E14BC0 49] iPodTouch6, [0000027F67311500][0000027F62E20E80 49] iPhone7, [0000027F67313000][0000027F62E1CEC0 49] iPodTouch7, [0000027F672AC200][0000027F62E25040 49] iPhone5S, [0000027F672C2E00][0000027F62E291C0 49] iPhone6Plus, [0000027F672ADF00][0000027F62E2D340 49] iPhone6S, [0000027F672C1300][0000027F62E314C0 49] iPhone6SPlus, [0000027F67311000][0000027F62E35640 49] iPhone7Plus, [0000027F672C0200][0000027F62E397C0 49] iPhoneSE, [0000027F67312B00][0000027F62E3D940 49] iPhone8, [0000027F672C2500][0000027F62E41AC0 49] iPhone8Plus, [0000027F67311D00][0000027F62E440C0 49] iPhoneX, [0000027F672C1600][0000027F62E48240 49] iPhoneXS, [0000027F67313500][0000027F62E4C3C0 49] iPhoneXSMax, [0000027F672C0700][0000027F62E50540 49] iPhoneXR, [0000027F67310C00][0000027F62E546C0 49] iPhone11, [0000027F672C0F00][0000027F62E10800 49] iPhone11Pro, [0000027F67310300][0000027F658A8940 49] iPhone11ProMax, [0000027F672C3600][0000027F658ACA80 49] iPhoneSE2, [0000027F67312800][0000027F658B0BC0 49] iPhone12Mini, [0000027F672C3100][0000027F658B8D40 49] iPhone12, [0000027F67313A00][0000027F658BCEC0 49] iPhone12Pro, [0000027F672C2600][0000027F658C1040 49] iPhone12ProMax, [0000027F67312400][0000027F658C51C0 49] iPadPro105, [0000027F672C3500][0000027F658C9340 49] iPadPro129, [0000027F67310900][0000027F658CD4C0 49] iPadPro97, [0000027F672C1500][0000027F658D1640 49] iPadPro2_129, [0000027F67312900][0000027F658D57C0 49] iPad5, [0000027F672C1A00][0000027F658D9940 49] iPad6, [0000027F67313E00][0000027F658DDAC0 49] iPad7, [0000027F672C0300][0000027F658E00C0 49] iPad8, [0000027F67310D00][0000027F658E4240 49] iPadPro11, [0000027F672C3200][0000027F658E83C0 49] iPadPro2_11, [0000027F67310F00][0000027F658EC540 49] iPadPro3_129, [0000027F672C3700][0000027F658F06C0 49] iPadPro4_129, [0000027F67312600][0000027F658F4840 49] AppleTV, [0000027F672C3F00][0000027F658B4980 49] AppleTV4K, [0000027F67310200][0000027F658F8AC0 49] TVOS, [0000027F672C0800][0000027F658FCC00 49] Mac, [0000027F67312E00][0000027F65900D40 49] MacClient, [0000027F672C3800][0000027F65908EC0 49] MacNoEditor, [0000027F67311400][0000027F6590D040 49] MacServer, [0000027F672C2100][0000027F659111C0 49] Linux, [0000027F67313900][0000027F65915340 49] LinuxAArch64, [0000027F672C0A00][0000027F659194C0 49] LinuxNoEditor, [0000027F67311C00][0000027F68171640 49] LinuxAArch64NoEditor, [0000027F672C3D00][0000027F681757C0 49] LinuxClient, [0000027F67311900][0000027F68179940 49] LinuxAArch64Client, [0000027F672C3300][0000027F6817DAC0 49] LinuxServer, [0000027F67310700][0000027F681800C0 49] LinuxAArch64Server, [0000027F672C2A00][0000027F68184240 49] Android, [0000027F67310100][0000027F681883C0 49] Android_Low, [0000027F672C1E00][0000027F6818C540 49] Android_Mid, [0000027F67310500][0000027F681906C0 49] Android_High, [0000027F672C1D00][0000027F68194840 49] Android_Default, [0000027F6736F200][0000027F681989C0 49] Android_Adreno4xx, [0000027F672AC500][0000027F6819CB40 49] Android_Adreno5xx_Low, [0000027F6736C200][0000027F65904C80 49] Android_Adreno5xx, [0000027F672AD600][0000027F681A0DC0 49] Android_Adreno6xx, [0000027F6736E900][0000027F681A4F00 49] Android_Adreno6xx_Vulkan, [0000027F672AD900][0000027F681AD080 49] Android_Mali_T6xx, [0000027F6736ED00][0000027F681B1200 49] Android_Mali_T7xx, [0000027F672AD700][0000027F681B5380 49] Android_Mali_T8xx, [0000027F6736EB00][0000027F681B9500 49] Android_Mali_G71, [0000027F672AE100][0000027F681BD680 49] Android_Mali_G72, [0000027F6736D000][0000027F681C1800 49] Android_Mali_G72_Vulkan, [0000027F672AFB00][0000027F681C5980 49] Android_Mali_G76, [0000027F6736E000][0000027F681C9B00 49] Android_Mali_G76_Vulkan, [0000027F672AE700][0000027F681CC100 49] Android_Mali_G77, [0000027F6736EA00][0000027F681D0280 49] Android_Mali_G77_Vulkan, [0000027F672AF800][0000027F681D4400 49] Android_Mali_G78, [0000027F6736CA00][0000027F681D8580 49] Android_Mali_G78_Vulkan, [0000027F672AF700][0000027F681DC700 49] Android_Mali_G710, [0000027F6736C700][0000027F681E0880 49] Android_Mali_G710_Vulkan, [0000027F672AF600][0000027F681E4A00 49] Android_Vulkan_SM5, [0000027F6736CD00][0000027F681E8B80 49] Android_PowerVR_G6xxx, [0000027F672AC800][0000027F681ECD00 49] Android_PowerVR_GT7xxx, [0000027F6736CE00][0000027F681A8E40 49] Android_PowerVR_GE8xxx, [0000027F672AE400][0000027F681F0F80 49] Android_PowerVR_GM9xxx, [0000027F6736C300][0000027F681F50C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000027F672ADB00][0000027F681FD240 49] Android_TegraK1, [0000027F6736DA00][0000027F682013C0 49] Android_Unknown_Vulkan, [0000027F672C1700][0000027F68205540 49] Lumin, [0000027F6736CB00][0000027F682096C0 49] Lumin_Desktop, [0000027F672C0E00][0000027F6820D840 49] HoloLens, 
+[2021.12.13-08.25.21:153][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.13-08.25.21:153][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.13-08.25.21:154][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.13-08.25.21:155][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.13-08.25.21:155][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.13-08.25.21:178][  0]LogNetVersion: ChristmasJam21Team8 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3489325065)
+[2021.12.13-08.25.21:589][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.12.13-08.25.21:653][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.12.13-08.25.21:661][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.12.13-08.25.21:661][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2021.12.13-08.25.21:662][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.13-08.25.22:046][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 78235BE5419AA1B36FA8F5A4A3EADB42 | Instance: F385F31849127ACA5611C3A3CA73995D (DESKTOP-REB21DE-13616).
+[2021.12.13-08.25.22:094][  0]LogPython: Using Python 3.7.7
+[2021.12.13-08.25.22:811][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.13-08.25.22:819][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.13-08.25.23:083][  0]SourceControl: Source control is disabled
+[2021.12.13-08.25.23:085][  0]SourceControl: Source control is disabled
+[2021.12.13-08.25.23:089][  0]SourceControl: Source control is disabled
+[2021.12.13-08.25.23:093][  0]SourceControl: Source control is disabled
+[2021.12.13-08.25.23:111][  0]LogUProjectInfo: Found projects:
+[2021.12.13-08.25.23:122][  0]SourceControl: Source control is disabled
+[2021.12.13-08.25.23:292][  0]LogOpenImageDenoise: OIDN starting up
+[2021.12.13-08.25.23:357][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.13-08.25.23:380][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.13-08.25.23:381][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.13-08.25.23:531][  0]LogCollectionManager: Loaded 0 collections in 0.002391 seconds
+[2021.12.13-08.25.23:563][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Collections/' took 0.00s
+[2021.12.13-08.25.23:564][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/Developers/Romain/Collections/' took 0.00s
+[2021.12.13-08.25.23:564][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/Collections/' took 0.00s
+[2021.12.13-08.25.23:565][  0]LogOcInput: OculusInput pre-init called
+[2021.12.13-08.25.23:802][  0]LogEngine: Initializing Engine...
+[2021.12.13-08.25.23:876][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.12.13-08.25.23:896][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2021.12.13-08.25.23:896][  0]LogHMD: Warning: Required extension XR_EXT_eye_gaze_interaction is not available
+[2021.12.13-08.25.23:898][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2021.12.13-08.25.24:402][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2021.12.13-08.25.24:402][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.13-08.25.24:405][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.12.13-08.25.24:581][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.13-08.25.24:594][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.13-08.25.24:595][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.12.13-08.25.24:601][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.12.13-08.25.24:601][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.12.13-08.25.24:602][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.12.13-08.25.24:602][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.12.13-08.25.24:603][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.13-08.25.24:603][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.13-08.25.24:604][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.13-08.25.24:604][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.13-08.25.24:605][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.13-08.25.24:605][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.13-08.25.24:606][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.13-08.25.24:606][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.13-08.25.24:607][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.13-08.25.24:607][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.13-08.25.24:608][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.13-08.25.24:608][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.13-08.25.24:625][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.13-08.25.24:625][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.13-08.25.24:663][  0]LogAudioMixer: Display: Using Audio Device Haut-parleurs (High Definition Audio Device)
+[2021.12.13-08.25.24:664][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.13-08.25.24:668][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.13-08.25.24:668][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.13-08.25.24:669][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.13-08.25.24:669][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.13-08.25.24:670][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.13-08.25.24:672][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.13-08.25.24:672][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.13-08.25.24:672][  0]LogInit: FAudioDevice initialized.
+[2021.12.13-08.25.24:673][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.12.13-08.25.24:673][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.13-08.25.24:753][  0]LogDerivedDataCache: Saved boot cache 0.08s 94MB C:/Users/romai/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.13-08.25.24:754][  0]LogInit: Texture streaming: Enabled
+[2021.12.13-08.25.24:770][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2021.12.13-08.25.24:775][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.13-08.25.24:775][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.13-08.25.24:778][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.13-08.25.24:798][  0]LogInit: Transaction tracking system initialized
+[2021.12.13-08.25.24:824][  0]BlueprintLog: New page: Editor Load
+[2021.12.13-08.25.24:917][  0]LocalizationService: Localization service is disabled
+[2021.12.13-08.25.24:946][  0]TimingProfiler: Initialize
+[2021.12.13-08.25.24:946][  0]TimingProfiler: OnSessionChanged
+[2021.12.13-08.25.24:947][  0]LoadingProfiler: Initialize
+[2021.12.13-08.25.24:947][  0]LoadingProfiler: OnSessionChanged
+[2021.12.13-08.25.24:948][  0]NetworkingProfiler: Initialize
+[2021.12.13-08.25.24:948][  0]NetworkingProfiler: OnSessionChanged
+[2021.12.13-08.25.24:949][  0]MemoryProfiler: Initialize
+[2021.12.13-08.25.24:949][  0]MemoryProfiler: OnSessionChanged
+[2021.12.13-08.25.25:139][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.12.13-08.25.25:139][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.13-08.25.25:363][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/' took 0.00s
+[2021.12.13-08.25.25:533][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.12.13-08.25.25:539][  0]SourceControl: Source control is disabled
+[2021.12.13-08.25.25:540][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.193
+[2021.12.13-08.25.25:544][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.12.13-08.25.25:544][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.13-08.25.25:544][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.25:545][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.13-08.25.25:551][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.12.13-08.25.25:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.12.13-08.25.25:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.12.13-08.25.25:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.12.13-08.25.25:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.12.13-08.25.25:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.12.13-08.25.25:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.12.13-08.25.25:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.12.13-08.25.25:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.12.13-08.25.25:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.12.13-08.25.25:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.12.13-08.25.25:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.12.13-08.25.25:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.12.13-08.25.25:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.12.13-08.25.25:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.12.13-08.25.25:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.12.13-08.25.25:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.12.13-08.25.25:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.12.13-08.25.25:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Fire01.uasset"
+[2021.12.13-08.25.25:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.12.13-08.25.25:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.12.13-08.25.25:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.12.13-08.25.25:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Light01.uasset"
+[2021.12.13-08.25.25:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.12.13-08.25.25:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Light02.uasset"
+[2021.12.13-08.25.25:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.12.13-08.25.25:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.12.13-08.25.25:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.12.13-08.25.25:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.12.13-08.25.25:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.12.13-08.25.25:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.12.13-08.25.25:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.12.13-08.25.25:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.12.13-08.25.25:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.12.13-08.25.25:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Steam01.uasset"
+[2021.12.13-08.25.25:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.12.13-08.25.25:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.12.13-08.25.25:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.12.13-08.25.25:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.12.13-08.25.25:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.12.13-08.25.25:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.12.13-08.25.25:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.12.13-08.25.25:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.12.13-08.25.25:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.12.13-08.25.25:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.12.13-08.25.25:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.12.13-08.25.25:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.12.13-08.25.25:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.12.13-08.25.25:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.12.13-08.25.25:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.12.13-08.25.25:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.12.13-08.25.25:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.12.13-08.25.25:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.12.13-08.25.25:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.12.13-08.25.25:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.12.13-08.25.25:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.12.13-08.25.25:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.12.13-08.25.25:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Maps/StarterMap.umap"
+[2021.12.13-08.25.25:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.12.13-08.25.25:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.12.13-08.25.25:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.12.13-08.25.25:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.12.13-08.25.25:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.12.13-08.25.25:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.12.13-08.25.25:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.12.13-08.25.25:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.12.13-08.25.25:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.12.13-08.25.25:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.12.13-08.25.25:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.12.13-08.25.25:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.12.13-08.25.25:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.12.13-08.25.25:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.12.13-08.25.25:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.12.13-08.25.25:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.12.13-08.25.25:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.12.13-08.25.25:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.12.13-08.25.25:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.12.13-08.25.25:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.12.13-08.25.25:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.12.13-08.25.25:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.12.13-08.25.25:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.12.13-08.25.25:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.12.13-08.25.25:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.12.13-08.25.25:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.12.13-08.25.25:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.12.13-08.25.25:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.12.13-08.25.25:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.12.13-08.25.25:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.12.13-08.25.25:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.12.13-08.25.25:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.12.13-08.25.25:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.12.13-08.25.25:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.12.13-08.25.25:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.12.13-08.25.25:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.12.13-08.25.25:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.12.13-08.25.25:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.12.13-08.25.25:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.12.13-08.25.25:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.12.13-08.25.25:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.12.13-08.25.25:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.12.13-08.25.25:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.12.13-08.25.25:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.12.13-08.25.25:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.12.13-08.25.25:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.12.13-08.25.25:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.12.13-08.25.25:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.12.13-08.25.25:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.12.13-08.25.25:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.12.13-08.25.25:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.12.13-08.25.25:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.12.13-08.25.25:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.12.13-08.25.25:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.12.13-08.25.25:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.12.13-08.25.25:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.12.13-08.25.25:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.12.13-08.25.25:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.12.13-08.25.25:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.12.13-08.25.25:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.12.13-08.25.25:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.12.13-08.25.25:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.12.13-08.25.25:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.12.13-08.25.25:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.12.13-08.25.25:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.12.13-08.25.25:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/SM_Door.uasset"
+[2021.12.13-08.25.25:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.12.13-08.25.25:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.12.13-08.25.25:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.12.13-08.25.25:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.12.13-08.25.25:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.12.13-08.25.25:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.12.13-08.25.25:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.12.13-08.25.25:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.12.13-08.25.25:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.12.13-08.25.25:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.12.13-08.25.25:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.12.13-08.25.25:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.12.13-08.25.25:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.12.13-08.25.25:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.12.13-08.25.25:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.12.13-08.25.25:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.12.13-08.25.25:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.12.13-08.25.25:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.12.13-08.25.25:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.12.13-08.25.25:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.12.13-08.25.25:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.12.13-08.25.25:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.12.13-08.25.25:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.12.13-08.25.25:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.12.13-08.25.25:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.12.13-08.25.25:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.12.13-08.25.25:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.12.13-08.25.25:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.12.13-08.25.25:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.12.13-08.25.25:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.12.13-08.25.25:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.12.13-08.25.25:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.12.13-08.25.25:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.12.13-08.25.25:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.12.13-08.25.25:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.12.13-08.25.25:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.12.13-08.25.25:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.12.13-08.25.25:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.12.13-08.25.25:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.12.13-08.25.25:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.12.13-08.25.25:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.12.13-08.25.25:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.12.13-08.25.25:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.12.13-08.25.25:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.12.13-08.25.25:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.12.13-08.25.25:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.12.13-08.25.25:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.12.13-08.25.25:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.12.13-08.25.25:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.12.13-08.25.25:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.12.13-08.25.25:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.12.13-08.25.25:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.12.13-08.25.26:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.12.13-08.25.26:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.12.13-08.25.26:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.12.13-08.25.26:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.12.13-08.25.26:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.12.13-08.25.26:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.12.13-08.25.26:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.12.13-08.25.26:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.12.13-08.25.26:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.12.13-08.25.26:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.12.13-08.25.26:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.12.13-08.25.26:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.12.13-08.25.26:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.12.13-08.25.26:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.12.13-08.25.26:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.12.13-08.25.26:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.12.13-08.25.26:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.12.13-08.25.26:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.12.13-08.25.26:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.12.13-08.25.26:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.12.13-08.25.26:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.12.13-08.25.26:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.12.13-08.25.26:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.12.13-08.25.26:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.12.13-08.25.26:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.12.13-08.25.26:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.12.13-08.25.26:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.12.13-08.25.26:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.12.13-08.25.26:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.12.13-08.25.26:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.12.13-08.25.26:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.12.13-08.25.26:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.12.13-08.25.26:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.12.13-08.25.26:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.12.13-08.25.26:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.12.13-08.25.26:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.12.13-08.25.26:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.12.13-08.25.26:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.12.13-08.25.26:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.12.13-08.25.26:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.12.13-08.25.26:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.12.13-08.25.26:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.12.13-08.25.26:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.12.13-08.25.26:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.12.13-08.25.26:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.12.13-08.25.26:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.12.13-08.25.26:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.12.13-08.25.26:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.12.13-08.25.26:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.12.13-08.25.26:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.12.13-08.25.26:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.12.13-08.25.26:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.12.13-08.25.26:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.12.13-08.25.26:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.12.13-08.25.26:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.12.13-08.25.26:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.12.13-08.25.26:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.12.13-08.25.26:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.12.13-08.25.26:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.12.13-08.25.26:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.12.13-08.25.26:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.12.13-08.25.26:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.12.13-08.25.26:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.12.13-08.25.26:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.12.13-08.25.26:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.12.13-08.25.26:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.12.13-08.25.26:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.12.13-08.25.26:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.12.13-08.25.26:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.12.13-08.25.26:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.12.13-08.25.26:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.12.13-08.25.26:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.12.13-08.25.26:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.12.13-08.25.26:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.12.13-08.25.26:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.12.13-08.25.26:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.12.13-08.25.26:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.12.13-08.25.26:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.12.13-08.25.26:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.12.13-08.25.26:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.12.13-08.25.26:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.12.13-08.25.26:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.12.13-08.25.26:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.12.13-08.25.26:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.12.13-08.25.26:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.12.13-08.25.26:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.12.13-08.25.26:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.12.13-08.25.26:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.12.13-08.25.26:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.12.13-08.25.26:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.12.13-08.25.26:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.12.13-08.25.26:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.12.13-08.25.26:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.12.13-08.25.26:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.12.13-08.25.26:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.12.13-08.25.26:998][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.12.13-08.25.27:064][  0]LogSavePackage: Moving 'E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Saved/Floor_400x4009C9558234C7667CCFD2B15A6E0DCEDF0.tmp' to 'E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.12.13-08.25.27:067][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.12.13-08.25.27:068][  0]Cmd: MAP LOAD FILE="E:/UnrealShit/ChristmasJam21Team8/ChristmasJam21Team8/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.13-08.25.27:069][  0]LightingResults: New page: Lighting Build
+[2021.12.13-08.25.27:070][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-08.25.27:070][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-08.25.27:071][  0]MapCheck: New page: Map Check
+[2021.12.13-08.25.27:071][  0]LightingResults: New page: Lighting Build
+[2021.12.13-08.25.27:077][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.13-08.25.27:081][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.12.13-08.25.27:378][  0]LogTexture: Display: Building textures: HQ_Lightmap1_5 (OODLE_AutoDXT, 64X64)
+[2021.12.13-08.25.27:381][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (OODLE_DXT1, 64X64)
+[2021.12.13-08.25.27:385][  0]LogTexture: Display: Building textures: SkyOcclusion1_5 (OODLE_AutoDXT, 64X32)
+[2021.12.13-08.25.27:386][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2021.12.13-08.25.27:387][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2021.12.13-08.25.27:387][  0]LogTexture: Display: Building textures: SkyOcclusion1_4 (OODLE_AutoDXT, 2048X1024)
+[2021.12.13-08.25.27:389][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (OODLE_AutoDXT, 2048X1024)
+[2021.12.13-08.25.27:390][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 2048X1024)
+[2021.12.13-08.25.27:391][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 2048X1024)
+[2021.12.13-08.25.27:392][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-08.25.27:392][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-08.25.27:393][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-08.25.27:394][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2021.12.13-08.25.27:395][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-08.25.27:397][  0]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 2048X2048)
+[2021.12.13-08.25.27:403][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 2048X2048)
+[2021.12.13-08.25.27:434][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 2048X2048)
+[2021.12.13-08.25.27:435][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 2048X2048)
+[2021.12.13-08.25.27:438][  0]LogTexture: Display: Building textures: DeprecatedTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2021.12.13-08.25.28:027][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 2048X2048)
+[2021.12.13-08.25.28:027][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-08.25.28:028][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-08.25.28:029][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 2048X2048)
+[2021.12.13-08.25.28:029][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-08.25.28:030][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-08.25.28:030][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 2048X2048)
+[2021.12.13-08.25.28:030][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2021.12.13-08.25.28:031][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-08.25.28:031][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-08.25.28:032][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.13-08.25.28:032][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.13-08.25.28:033][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2021.12.13-08.25.28:033][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 2048X2048)
+[2021.12.13-08.25.28:033][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2021.12.13-08.25.28:034][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2021.12.13-08.25.28:034][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2021.12.13-08.25.28:035][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-08.25.28:035][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.13-08.25.28:036][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.13-08.25.28:036][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.13-08.25.28:037][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-08.25.28:037][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-08.25.28:038][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-08.25.28:038][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.13-08.25.28:038][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.13-08.25.28:039][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.13-08.25.28:039][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-08.25.28:040][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.12.13-08.25.28:040][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2021.12.13-08.25.28:042][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.12.13-08.25.28:058][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.13-08.25.28:070][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.12.13-08.25.28:095][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.13-08.25.28:096][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,187ms to complete.
+[2021.12.13-08.25.28:096][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.028
+[2021.12.13-08.25.28:099][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.753
+[2021.12.13-08.25.28:215][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.13-08.25.28:225][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.13-08.25.28:235][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.13-08.25.28:244][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.13-08.25.28:264][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0137 seconds. Added 3822 classes and 928 folders.
+[2021.12.13-08.25.28:267][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.13-08.25.28:269][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.13-08.25.28:269][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:270][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.13-08.25.28:271][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:273][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.12.13-08.25.28:273][  0]LogPakFile: OnPakFileMounted2Time == 0.002605
+[2021.12.13-08.25.28:275][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.13-08.25.28:275][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:275][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.13-08.25.28:276][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:276][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.12.13-08.25.28:276][  0]LogPakFile: OnPakFileMounted2Time == 0.000815
+[2021.12.13-08.25.28:277][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.12.13-08.25.28:278][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:278][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.12.13-08.25.28:278][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:279][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.12.13-08.25.28:279][  0]LogPakFile: OnPakFileMounted2Time == 0.000818
+[2021.12.13-08.25.28:280][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.13-08.25.28:280][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:281][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.13-08.25.28:281][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:282][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.12.13-08.25.28:282][  0]LogPakFile: OnPakFileMounted2Time == 0.000781
+[2021.12.13-08.25.28:283][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.13-08.25.28:283][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:284][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.13-08.25.28:284][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:285][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.12.13-08.25.28:285][  0]LogPakFile: OnPakFileMounted2Time == 0.000921
+[2021.12.13-08.25.28:286][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.13-08.25.28:286][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:287][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.13-08.25.28:291][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:291][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.12.13-08.25.28:292][  0]LogPakFile: OnPakFileMounted2Time == 0.001157
+[2021.12.13-08.25.28:293][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.13-08.25.28:293][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:294][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.13-08.25.28:294][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:295][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.12.13-08.25.28:295][  0]LogPakFile: OnPakFileMounted2Time == 0.000893
+[2021.12.13-08.25.28:297][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.13-08.25.28:297][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:297][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.13-08.25.28:298][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:298][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.12.13-08.25.28:299][  0]LogPakFile: OnPakFileMounted2Time == 0.001149
+[2021.12.13-08.25.28:300][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.13-08.25.28:300][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:301][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.13-08.25.28:301][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:302][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.12.13-08.25.28:302][  0]LogPakFile: OnPakFileMounted2Time == 0.000820
+[2021.12.13-08.25.28:304][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.13-08.25.28:306][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:307][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.13-08.25.28:307][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:308][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.12.13-08.25.28:308][  0]LogPakFile: OnPakFileMounted2Time == 0.000873
+[2021.12.13-08.25.28:309][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.13-08.25.28:309][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:310][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.13-08.25.28:310][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:311][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.12.13-08.25.28:311][  0]LogPakFile: OnPakFileMounted2Time == 0.000860
+[2021.12.13-08.25.28:312][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.13-08.25.28:312][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:313][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.13-08.25.28:313][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:314][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.12.13-08.25.28:314][  0]LogPakFile: OnPakFileMounted2Time == 0.000827
+[2021.12.13-08.25.28:315][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.13-08.25.28:315][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:316][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.13-08.25.28:316][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:317][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.12.13-08.25.28:317][  0]LogPakFile: OnPakFileMounted2Time == 0.000808
+[2021.12.13-08.25.28:318][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.13-08.25.28:321][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:322][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.13-08.25.28:322][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:323][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.12.13-08.25.28:323][  0]LogPakFile: OnPakFileMounted2Time == 0.000791
+[2021.12.13-08.25.28:324][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.13-08.25.28:324][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:325][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.13-08.25.28:325][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:326][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.12.13-08.25.28:326][  0]LogPakFile: OnPakFileMounted2Time == 0.000794
+[2021.12.13-08.25.28:327][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.13-08.25.28:327][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:328][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.13-08.25.28:328][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:328][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.12.13-08.25.28:329][  0]LogPakFile: OnPakFileMounted2Time == 0.000803
+[2021.12.13-08.25.28:330][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.13-08.25.28:330][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:330][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.13-08.25.28:331][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:331][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.12.13-08.25.28:332][  0]LogPakFile: OnPakFileMounted2Time == 0.000830
+[2021.12.13-08.25.28:333][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.13-08.25.28:336][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:336][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.13-08.25.28:336][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:337][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.12.13-08.25.28:337][  0]LogPakFile: OnPakFileMounted2Time == 0.000840
+[2021.12.13-08.25.28:338][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.13-08.25.28:338][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:339][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.13-08.25.28:339][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:340][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.12.13-08.25.28:340][  0]LogPakFile: OnPakFileMounted2Time == 0.000816
+[2021.12.13-08.25.28:341][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.13-08.25.28:341][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:342][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.13-08.25.28:342][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:342][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.12.13-08.25.28:343][  0]LogPakFile: OnPakFileMounted2Time == 0.000825
+[2021.12.13-08.25.28:344][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.13-08.25.28:344][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:344][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.13-08.25.28:345][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:345][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.12.13-08.25.28:346][  0]LogPakFile: OnPakFileMounted2Time == 0.000828
+[2021.12.13-08.25.28:347][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.13-08.25.28:347][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:347][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.13-08.25.28:348][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:348][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.12.13-08.25.28:348][  0]LogPakFile: OnPakFileMounted2Time == 0.000844
+[2021.12.13-08.25.28:350][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.12.13-08.25.28:352][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:353][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.12.13-08.25.28:353][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:354][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.12.13-08.25.28:354][  0]LogPakFile: OnPakFileMounted2Time == 0.000854
+[2021.12.13-08.25.28:355][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.13-08.25.28:356][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:356][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.13-08.25.28:356][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:357][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.12.13-08.25.28:357][  0]LogPakFile: OnPakFileMounted2Time == 0.000871
+[2021.12.13-08.25.28:358][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.13-08.25.28:359][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:359][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.13-08.25.28:359][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:360][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.12.13-08.25.28:360][  0]LogPakFile: OnPakFileMounted2Time == 0.000857
+[2021.12.13-08.25.28:361][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.13-08.25.28:361][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.13-08.25.28:362][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.13-08.25.28:362][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.13-08.25.28:363][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files (x86)/UnrealEngine/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.12.13-08.25.28:363][  0]LogPakFile: OnPakFileMounted2Time == 0.000823
+[2021.12.13-08.25.28:426][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.13-08.25.28:430][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.12.13-08.25.28:458][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.13-08.25.28:460][  0]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.13-08.25.28:463][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.12.13-08.25.28:541][  0]LogRenderer: Reallocating scene render targets to support 1220x628 Format 10 NumSamples 1 (Frame:1).
+[2021.12.13-08.25.28:707][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.13-08.25.28:707][  0]LogLoad: (Engine Initialization) Total time: 12.36 seconds
+[2021.12.13-08.25.28:709][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.13-08.25.28:727][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.12.13-08.25.28:727][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.12.13-08.25.28:763][  0]LogAssetRegistry: Asset discovery search completed in 8.0573 seconds
+[2021.12.13-08.25.28:770][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.12.13-08.25.29:822][  0]LogContentStreaming: Texture pool size now 1000 MB
