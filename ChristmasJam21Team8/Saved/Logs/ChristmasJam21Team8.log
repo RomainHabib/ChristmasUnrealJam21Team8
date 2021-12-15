@@ -3248,3 +3248,208 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.15-15.47.18:866][909]LogSavePackage: Moving 'C:/Users/chame/Documents/ludum dare/ChristmasUnrealJam21Team8/ChristmasJam21Team8/Saved/Main_SceneE31AF1994220200FD18E49BFDA388B01.tmp' to 'C:/Users/chame/Documents/ludum dare/ChristmasUnrealJam21Team8/ChristmasJam21Team8/Content/Maps/Main_Scene.umap'
 [2021.12.15-15.47.18:924][909]AssetCheck: New page: Asset Save: Main_Scene
 [2021.12.15-15.47.18:924][909]LogContentValidation: Display: Validating World /Game/Maps/Main_Scene.Main_Scene
+[2021.12.15-15.49.45:278][859]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/BT_Enemy.BT_Enemy
+[2021.12.15-15.50.21:492][ 74]LogSlate: Window 'BT_Enemy' being destroyed
+[2021.12.15-15.50.38:810][112]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.12.15-15.51.28:146][539]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2021.12.15-15.51.28:154][539]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-15.51.28:154][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-15.51.30:412][799]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.15-15.51.33:955][222]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.15-15.51.37:744][672]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.15-15.51.40:995][ 53]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.15-15.51.44:666][477]LogEditorViewport: Clicking on Actor (LMB): etagere_Blueprint_C (etagere_Blueprint17)
+[2021.12.15-15.51.45:816][612]LogEditorViewport: Clicking on Actor (LMB): etagere_Blueprint_C (etagere_Blueprint16)
+[2021.12.15-15.51.59:163][ 69]LogEditorViewport: Clicking on Actor (CTRL LMB): etagere_Blueprint_C (etagere_Blueprint17)
+[2021.12.15-15.52.04:074][585]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.15-15.52.30:971][745]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.15-15.52.33:894][ 90]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.15-15.52.38:820][673]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-15.52.38:829][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-15.52.38:829][673]PIE: New page: PIE session: Main_Scene (15 déc. 2021 à 17:52:38)
+[2021.12.15-15.52.38:829][673]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Scene
+[2021.12.15-15.52.38:924][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094180s)
+[2021.12.15-15.52.38:925][673]LogAIModule: Creating AISystem for world Main_Scene
+[2021.12.15-15.52.38:925][673]LogPlayLevel: PIE: World Init took: (0.001416s)
+[2021.12.15-15.52.38:926][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Scene.Main_Scene to /Game/Maps/UEDPIE_0_Main_Scene.Main_Scene (0.095915s)
+[2021.12.15-15.52.38:946][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.12.15-15.52.38:955][673]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.12.15-15.52.38:955][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-15.52.38:955][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-15.52.38:955][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-15.52.38:955][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-15.52.38:955][673]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-15.52.38:955][673]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-15.52.38:955][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-15.52.38:955][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-15.52.38:956][673]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.15-15.52.38:956][673]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.15-15.52.38:956][673]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.15-15.52.38:956][673]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-15.52.38:959][673]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-15.52.38:959][673]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-15.52.38:967][673]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.12.15-15.52.38:967][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-15.52.38:967][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-15.52.38:967][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-15.52.38:967][673]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-15.52.38:967][673]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-15.52.38:967][673]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-15.52.38:968][673]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-15.52.38:968][673]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-15.52.38:968][673]LogInit: FAudioDevice initialized.
+[2021.12.15-15.52.38:968][673]LogAudio: Display: Audio Device (ID: 26) registered with world 'Main_Scene'.
+[2021.12.15-15.52.38:975][673]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.15-15.52.39:020][673]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Scene.Main_Scene up for play (max tick rate 0) at 2021.12.15-16.52.39
+[2021.12.15-15.52.39:022][673]LogWorld: Bringing up level for play took: 0.045952
+[2021.12.15-15.52.39:022][673]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.12.15-15.52.39:060][673]PIE: Server logged in
+[2021.12.15-15.52.39:061][673]PIE: Play in editor total start time 0,235 seconds.
+[2021.12.15-15.52.39:077][674]LogBlueprintUserMessages: [BTT_GetNextPatrolPoint_C_0] IA has find a point
+[2021.12.15-15.52.42:364][ 62]LogBlueprintUserMessages: [BTT_GetNextPatrolPoint_C_0] IA has find a point
+[2021.12.15-15.52.46:464][554]LogBlueprintUserMessages: [BTT_GetNextPatrolPoint_C_0] IA has find a point
+[2021.12.15-15.52.50:297][ 14]LogBlueprintUserMessages: [BTT_GetNextPatrolPoint_C_0] IA has find a point
+[2021.12.15-15.52.54:129][472]LogBlueprintUserMessages: [BTT_GetNextPatrolPoint_C_0] IA has find a point
+[2021.12.15-15.52.57:962][932]LogBlueprintUserMessages: [BTT_GetNextPatrolPoint_C_0] IA has find a point
+[2021.12.15-15.52.57:979][934]LogBlueprintUserMessages: [EnemyAI_2] Enemy began chasing player
+[2021.12.15-15.52.58:620][ 11]LogNet: Browse: /Game/Maps/GameOverScene
+[2021.12.15-15.52.58:620][ 11]LogLoad: LoadMap: /Game/Maps/GameOverScene
+[2021.12.15-15.52.58:620][ 11]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Scene
+[2021.12.15-15.52.58:622][ 11]LogWorld: UWorld::CleanupWorld for Main_Scene, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-15.52.58:630][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-15.52.58:686][ 11]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-15.52.58:698][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.12.15-15.52.58:706][ 11]LogAudio: Display: Audio Device (ID: 26) registered with world 'GameOverScene'.
+[2021.12.15-15.52.58:707][ 11]LogAIModule: Creating AISystem for world GameOverScene
+[2021.12.15-15.52.58:707][ 11]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.12.15-15.52.58:708][ 11]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameOverScene.GameOverScene up for play (max tick rate 0) at 2021.12.15-16.52.58
+[2021.12.15-15.52.58:708][ 11]LogWorld: Bringing up level for play took: 0.000303
+[2021.12.15-15.52.58:708][ 11]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.12.15-15.52.58:709][ 11]LogLoad: Took 0.088256 seconds to LoadMap(/Game/Maps/GameOverScene)
+[2021.12.15-15.52.59:632][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-15.52.59:632][115]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GameOverScene
+[2021.12.15-15.52.59:632][115]LogWorld: UWorld::CleanupWorld for GameOverScene, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-15.52.59:632][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-15.52.59:640][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-15.52.59:653][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-15.52.59:665][115]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-15.52.59:665][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-15.52.59:666][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-15.52.59:667][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-15.52.59:669][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.12.15-15.52.59:696][116]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.12.15-15.53.01:334][310]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-15.53.01:343][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-15.53.01:344][310]PIE: New page: PIE session: Main_Scene (15 déc. 2021 à 17:53:01)
+[2021.12.15-15.53.01:387][310]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main_Scene
+[2021.12.15-15.53.01:481][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093712s)
+[2021.12.15-15.53.01:481][310]LogAIModule: Creating AISystem for world Main_Scene
+[2021.12.15-15.53.01:482][310]LogPlayLevel: PIE: World Init took: (0.001405s)
+[2021.12.15-15.53.01:482][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main_Scene.Main_Scene to /Game/Maps/UEDPIE_0_Main_Scene.Main_Scene (0.095461s)
+[2021.12.15-15.53.01:497][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.12.15-15.53.01:498][310]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.12.15-15.53.01:498][310]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-15.53.01:498][310]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-15.53.01:498][310]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-15.53.01:498][310]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-15.53.01:498][310]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-15.53.01:498][310]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-15.53.01:498][310]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-15.53.01:498][310]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-15.53.01:498][310]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.15-15.53.01:498][310]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.15-15.53.01:498][310]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.15-15.53.01:498][310]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-15.53.01:502][310]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-15.53.01:502][310]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-15.53.01:509][310]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.12.15-15.53.01:509][310]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-15.53.01:509][310]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-15.53.01:509][310]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-15.53.01:509][310]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-15.53.01:509][310]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-15.53.01:509][310]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-15.53.01:510][310]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-15.53.01:510][310]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-15.53.01:510][310]LogInit: FAudioDevice initialized.
+[2021.12.15-15.53.01:510][310]LogAudio: Display: Audio Device (ID: 27) registered with world 'Main_Scene'.
+[2021.12.15-15.53.01:519][310]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.15-15.53.01:564][310]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main_Scene.Main_Scene up for play (max tick rate 0) at 2021.12.15-16.53.01
+[2021.12.15-15.53.01:566][310]LogWorld: Bringing up level for play took: 0.046185
+[2021.12.15-15.53.01:566][310]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.12.15-15.53.01:605][310]PIE: Server logged in
+[2021.12.15-15.53.01:605][310]PIE: Play in editor total start time 0,265 seconds.
+[2021.12.15-15.53.01:621][311]LogBlueprintUserMessages: [BTT_GetNextPatrolPoint_C_0] IA has find a point
+[2021.12.15-15.53.04:495][650]LogBlueprintUserMessages: [EnemyAI_2] Enemy began chasing player
+[2021.12.15-15.53.08:728][158]LogBlueprintUserMessages: [EnemyAI_2] Enemy began chasing player
+[2021.12.15-15.53.09:912][300]LogNet: Browse: /Game/Maps/GameOverScene
+[2021.12.15-15.53.09:912][300]LogLoad: LoadMap: /Game/Maps/GameOverScene
+[2021.12.15-15.53.09:912][300]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main_Scene
+[2021.12.15-15.53.09:914][300]LogWorld: UWorld::CleanupWorld for Main_Scene, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-15.53.09:922][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-15.53.09:942][300]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-15.53.09:952][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.12.15-15.53.09:960][300]LogAudio: Display: Audio Device (ID: 27) registered with world 'GameOverScene'.
+[2021.12.15-15.53.09:961][300]LogAIModule: Creating AISystem for world GameOverScene
+[2021.12.15-15.53.09:961][300]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.12.15-15.53.09:962][300]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameOverScene.GameOverScene up for play (max tick rate 0) at 2021.12.15-16.53.09
+[2021.12.15-15.53.09:962][300]LogWorld: Bringing up level for play took: 0.000275
+[2021.12.15-15.53.09:962][300]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.12.15-15.53.09:963][300]LogLoad: Took 0.050587 seconds to LoadMap(/Game/Maps/GameOverScene)
+[2021.12.15-15.53.10:581][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-15.53.10:581][368]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_GameOverScene
+[2021.12.15-15.53.10:581][368]LogWorld: UWorld::CleanupWorld for GameOverScene, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-15.53.10:581][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-15.53.10:590][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-15.53.10:603][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-15.53.10:615][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-15.53.10:616][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-15.53.10:617][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-15.53.10:621][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.12.15-15.53.10:648][369]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.12.15-15.53.12:439][582]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.15-15.53.33:075][ 39]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.15-15.53.37:208][176]LogEditorViewport: Clicking on Actor (LMB): etagere_Blueprint_C (etagere_Blueprint22)
+[2021.12.15-15.53.38:018][259]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.15-15.53.40:307][527]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.15-15.53.44:732][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor298)
+[2021.12.15-15.53.51:778][881]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.15-15.54.10:815][130]LogEditorViewport: Clicking on Actor (LMB): etagere_Blueprint_C (etagere_Blueprint21)
+[2021.12.15-15.54.11:074][158]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.15-15.54.12:689][349]LogEditorViewport: Clicking on Actor (LMB): etagere_Blueprint_C (etagere_Blueprint16)
+[2021.12.15-15.54.12:855][366]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.15-15.54.21:734][427]LogEditorViewport: Clicking on Actor (LMB): etagere_Blueprint_C (etagere_Blueprint12)
+[2021.12.15-15.54.22:547][521]LogEditorViewport: Clicking on Actor (LMB): etagere_Blueprint_C (etagere_Blueprint11)
+[2021.12.15-15.54.26:543][997]LogEditorViewport: Clicking on Actor (CTRL LMB): etagere_Blueprint_C (etagere_Blueprint12)
+[2021.12.15-15.54.27:747][138]LogEditorViewport: Clicking on Actor (CTRL LMB): etagere_Blueprint_C (etagere_Blueprint13)
+[2021.12.15-15.54.35:893][ 56]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.15-15.54.51:292][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.12.15-15.54.51:898][537]LogSavePackage: Moving 'C:/Users/chame/Documents/ludum dare/ChristmasUnrealJam21Team8/ChristmasJam21Team8/Saved/Main_Scene657E1DA94538353C352DE6AD8B07DDE6.tmp' to 'C:/Users/chame/Documents/ludum dare/ChristmasUnrealJam21Team8/ChristmasJam21Team8/Content/Maps/Main_Scene.umap'
+[2021.12.15-15.54.51:945][537]AssetCheck: New page: Asset Save: Main_Scene
+[2021.12.15-15.54.51:945][537]LogContentValidation: Display: Validating World /Game/Maps/Main_Scene.Main_Scene
+[2021.12.15-15.54.58:268][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.12.15-15.54.58:869][232]LogSavePackage: Moving 'C:/Users/chame/Documents/ludum dare/ChristmasUnrealJam21Team8/ChristmasJam21Team8/Saved/Main_Scene765040064950017C7C191796B8CBBE47.tmp' to 'C:/Users/chame/Documents/ludum dare/ChristmasUnrealJam21Team8/ChristmasJam21Team8/Content/Maps/Main_Scene.umap'
+[2021.12.15-15.54.58:912][232]AssetCheck: New page: Asset Save: Main_Scene
+[2021.12.15-15.54.58:912][232]LogContentValidation: Display: Validating World /Game/Maps/Main_Scene.Main_Scene
+[2021.12.15-15.55.07:404][380]LogEditorViewport: Clicking on Actor (LMB): etagere_Blueprint_C (etagere_Blueprint26)
+[2021.12.15-15.55.20:518][942]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.12.15-15.56.13:631][132]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.12.15-15.56.13:671][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.12.15-15.56.14:299][181]LogSavePackage: Moving 'C:/Users/chame/Documents/ludum dare/ChristmasUnrealJam21Team8/ChristmasJam21Team8/Saved/FirstPersonCharacterD6A900D44765C80B7C331B84A6639F8C.tmp' to 'C:/Users/chame/Documents/ludum dare/ChristmasUnrealJam21Team8/ChristmasJam21Team8/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.12.15-15.56.14:316][181]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.12.15-15.56.14:316][181]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.12.15-15.56.39:547][718]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.12.15-15.56.39:597][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.12.15-15.56.40:097][752]LogSavePackage: Moving 'C:/Users/chame/Documents/ludum dare/ChristmasUnrealJam21Team8/ChristmasJam21Team8/Saved/FirstPersonCharacter0538B83B405A372EC5FF86BCE6651045.tmp' to 'C:/Users/chame/Documents/ludum dare/ChristmasUnrealJam21Team8/ChristmasJam21Team8/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.12.15-15.56.40:111][752]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.12.15-15.56.40:111][752]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.12.15-15.57.03:910][134]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.12.15-15.57.03:956][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.12.15-15.57.04:697][203]LogSavePackage: Moving 'C:/Users/chame/Documents/ludum dare/ChristmasUnrealJam21Team8/ChristmasJam21Team8/Saved/FirstPersonCharacter6DDC1732431DB93704BF8CB2539C5714.tmp' to 'C:/Users/chame/Documents/ludum dare/ChristmasUnrealJam21Team8/ChristmasJam21Team8/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.12.15-15.57.04:710][203]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.12.15-15.57.04:710][203]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.12.15-15.57.34:033][281]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/BT_Enemy.BT_Enemy
+[2021.12.15-15.57.50:366][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_Enemy" FILE="C:/Users/chame/Documents/ludum dare/ChristmasUnrealJam21Team8/ChristmasJam21Team8/Content/AI/BT_Enemy.uasset" SILENT=true
+[2021.12.15-15.57.50:373][196]LogSavePackage: Moving 'C:/Users/chame/Documents/ludum dare/ChristmasUnrealJam21Team8/ChristmasJam21Team8/Saved/BT_Enemy72AA771D4A32564F54B0B698863A851F.tmp' to 'C:/Users/chame/Documents/ludum dare/ChristmasUnrealJam21Team8/ChristmasJam21Team8/Content/AI/BT_Enemy.uasset'
+[2021.12.15-15.57.50:385][196]AssetCheck: New page: Asset Save: BT_Enemy
+[2021.12.15-15.57.50:385][196]LogContentValidation: Display: Validating BehaviorTree /Game/AI/BT_Enemy.BT_Enemy
